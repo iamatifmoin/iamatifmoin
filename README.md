@@ -7,7 +7,7 @@
 <a href="https://github.com/iamatifmoin?tab=followers"><img src="https://img.shields.io/github/followers/iamatifmoin?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br>
-<h4 align="left"><i>I am Atif Moin, a 1st year Bachelor of Computer Applications (BCA)<br>Undergraduate from National Post Graduation College, Lucknow.</h4>
+<h4 align="left"><i>I am Atif Moin, a 1st year Bachelor of Computer Applications (BCA)<br>Undergraduate from National Post Graduation College, Lucknow.</i></h4>
 
 
 
