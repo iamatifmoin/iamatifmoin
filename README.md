@@ -1,13 +1,13 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<!--<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>-->
 
-<h1 align="center">Hello Stranger <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="left">Hello Stranger <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=iamatifmoin">
 </a>
 <a href="https://github.com/iamatifmoin?tab=followers"><img src="https://img.shields.io/github/followers/iamatifmoin?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br>
-<h3 align="center">I am Atif Moin, a 1st year Bachelor of Computer Applications (BCA) Undergraduate <br>from National Post Graduation College, Lucknow.</h3><br><br>
+<h4 align="left">I am Atif Moin, a 1st year Bachelor of Computer Applications (BCA) Undergraduate <br>from National Post Graduation College, Lucknow.</h4><br><br>
 
 
 
@@ -15,7 +15,7 @@
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://www.cprogramming.com" target="_blank"> <img src="<img src="https://img.icons8.com/color/48/000000/c-programming.png"/>"/> </a>
+    <a href="https://www.cprogramming.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a>
     <!--<a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
