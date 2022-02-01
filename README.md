@@ -7,11 +7,11 @@
 <a href="https://github.com/iamatifmoin?tab=followers"><img src="https://img.shields.io/github/followers/iamatifmoin?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br>
-<h4 align="left"><i>I am <b>Atif Moin</b>, a 1st year Bachelor of Computer Applications <b>(BCA)</b><br>Undergraduate from <b>National Post Graduation College</b>, Lucknow.</h4><br>
+<h4 align="left"><i>I am Atif Moin, a 1st year Bachelor of Computer Applications (BCA)<br>Undergraduate from National Post Graduation College, Lucknow.</h4>
 
 
 
-## Languages and Tools:
+<h2> Languages and Tools:
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
