@@ -1,13 +1,13 @@
 <!--<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>-->
 
-<h1 align="left">Hello Stranger <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="left"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hello World <img src="https://camo.githubusercontent.com/882324f85a27edea6f08e9a415d00e5110909697b338ee61d3fe53606b919e76/68747470733a2f2f696d6775722e636f6d2f54467a467633442e676966"width="30px"></h1>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=iamatifmoin">
 </a>
 <a href="https://github.com/iamatifmoin?tab=followers"><img src="https://img.shields.io/github/followers/iamatifmoin?label=Followers&style=social" alt="GitHub Badge"></a>
 
 <br>
-<h4 align="left">I am Atif Moin, a 1st year Bachelor of Computer Applications (BCA) Undergraduate <br>from National Post Graduation College, Lucknow.</h4><br><br>
+<h4 align="left">I am Atif Moin, a 1st year Bachelor of Computer Applications (BCA) <br>Undergraduate from National Post Graduation College, Lucknow.</h4><br>
 
 
 
