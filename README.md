@@ -12,6 +12,9 @@
 
 
 <h3> <b>Languages and Tools :</b>
+<p
+   margin-top:5px
+   margin-bottom:5px>
 
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -63,7 +66,7 @@
 <h3> <b>Let's Connect :</b>
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/iamatifmoin/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/atif-moin-b1559a220/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/iamatifmoin"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/iamatifmoin"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a></h2>
 
