@@ -63,7 +63,7 @@
 <br/>
 <br/>-->
 
-<h3> <b>Let's Connect :</b>
+<h3> <b>Let's Connect :</b></h3>
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/atif-moin-b1559a220/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -71,3 +71,9 @@
 <a href = "https://www.instagram.com/iamatifmoin"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a></h2>
 
 </p>
+<h3> <b>GitHub Statistics :</b></h3>
+
+
+![Metrics](https://metrics.lecoq.io/iamatifmoin?template=classic&config.timezone=Asia%2FCalcutta)
+<!--<h5>See More : </h5>
+<p align="centre" a href = "https://metrics.lecoq.io/about/iamatifmoin"></p>-->
