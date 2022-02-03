@@ -86,5 +86,3 @@
 <p align="centre" a href = "https://metrics.lecoq.io/about/iamatifmoin"></p>-->
 <h3 align="center" >Loved something? <img src="https://img.icons8.com/fluency/25/000000/christmas-star.png"/> some repositories to show your
 <img src="https://img.icons8.com/color/25/000000/like--v3.png"/>.</h3>
-
-<div class="tenor-gif-embed" data-postid="14736375" data-share-method="host" data-aspect-ratio="1" data-width="50%"><a href="https://tenor.com/view/dancing-star-smiling-happy-gif-14736375">Dancing Star Smiling GIF</a>from <a href="https://tenor.com/search/dancing+star-gifs">Dancing Star GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
