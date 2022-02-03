@@ -9,7 +9,7 @@
 
 
 <br>
-<h4 align="left"><i>I am Atif Moin, a 1st year Bachelor of Computer Applications (BCA)<br>Undergraduate from National Post Graduation College, Lucknow.</i></h4>
+<p align="left"><i>I am Atif Moin, a 1st year Bachelor of Computer Applications (BCA)<br>Undergraduate from National Post Graduation College, Lucknow.</i></p>
 
 
 <!--<h4 align="right"> <img src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966" width="400px"></h4>-->
