@@ -4,11 +4,8 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=iamatifmoin">
 </a>
-<a href="https://github.com/iamatifmoin?tab=followers"><img src="https://img.shields.io/github/followers/iamatifmoin?label=Followers&style=social" alt="GitHub Badge"><img src="https://i.gifer.com/3otv.gif" width="400px" align="right">
+<a href="https://github.com/iamatifmoin?tab=followers"><img src="https://img.shields.io/github/followers/iamatifmoin?label=Followers&style=social" alt="GitHub Badge"><img src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966" width="400px" align="right">
 </a><br>
-
-<!--<img src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966" width="400px" align="right">-->
-
 
 <br>
 
