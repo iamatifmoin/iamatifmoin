@@ -82,7 +82,6 @@
 
 <p align="center"><img src="https://metrics.lecoq.io/iamatifmoin" alt="Github Metrics"></p>
 <p align="center">See More: https://metrics.lecoq.io/about/iamatifmoin</p>
-<br>
 <!--<h5>See More : </h5>
 <p align="centre" a href = "https://metrics.lecoq.io/about/iamatifmoin"></p>-->
 <h3 align="center" >Loved something? <img src="https://img.icons8.com/fluency/25/000000/christmas-star.png"/> some repositories to show your
