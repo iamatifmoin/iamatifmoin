@@ -85,5 +85,5 @@
 <br>
 <!--<h5>See More : </h5>
 <p align="centre" a href = "https://metrics.lecoq.io/about/iamatifmoin"></p>-->
-<p align="center" style="font-size:15px;">Loved something? <img src="https://img.icons8.com/fluency/25/000000/christmas-star.png"/> some repositories to show your
-<img src="https://img.icons8.com/color/25/000000/like--v3.png"/>.</p>
+<p align="center" style="font-size:15px;"><b>Loved something? </b><img src="https://img.icons8.com/fluency/25/000000/christmas-star.png"/> <b>some repositories to show your</b>
+<img src="https://img.icons8.com/color/25/000000/like--v3.png"/><b>.</b></p>
