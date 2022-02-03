@@ -75,10 +75,13 @@
 <a href = "https://www.instagram.com/iamatifmoin"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a></h2>
 
 </p>
-<h3> <b>GitHub Statistics :</b></h3>
+<br>
+<h3 align="center"> <b>GitHub Statistics :</b></h3>
 
 
-![Metrics](https://metrics.lecoq.io/iamatifmoin?template=classic&config.timezone=Asia%2FCalcutta)
+<p align="center"><img src="https://metrics.lecoq.io/iamatifmoin" alt="Github Metrics"></p>
+<p align="center">See More: https://metrics.lecoq.io/about/iamatifmoin</p>
+<br>
 <!--<h5>See More : </h5>
 <p align="centre" a href = "https://metrics.lecoq.io/about/iamatifmoin"></p>-->
 <p align="center" style="font-size:15px;">Loved something? <img src="https://img.icons8.com/fluency/25/000000/christmas-star.png"/> some repositories to show your
