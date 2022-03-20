@@ -70,9 +70,9 @@
 <h3> <b>Let's Connect :</b></h3>
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/atif-moin-b1559a220/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/iamatifmoin"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/iamatifmoin"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a></h2>
+<a href = "https://www.linkedin.com/in/atif-moin-b1559a220/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/iamatifmoin" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/iamatifmoin" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a></h2>
 
 </p>
 <br>
