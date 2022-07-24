@@ -9,7 +9,7 @@
 
 <br>
 
-<p align="left"><i>I am <b>Atif Moin</b>, a 1st year Bachelor of Computer Applications <b>(BCA)</b><br>Undergraduate from <b>National Post Graduate College</b>, Lucknow.</i></p>
+<!-- <p align="left"><i>I am <b>Atif Moin</b>, a 1st year Bachelor of Computer Applications <b>(BCA)</b><br>Undergraduate from <b>National Post Graduate College</b>, Lucknow.</i></p> -->
 
 
 <!--<h4 align="right"> <img src="https://camo.githubusercontent.com/12e0d68f4910f6b0bb4358a6e600ddda201427e01ed1bcf264258900109ea9c6/68747470733a2f2f696d6775722e636f6d2f5a396e317935532e676966" width="400px"></h4>-->
@@ -80,13 +80,13 @@
 <a href = "https://www.instagram.com/iamatifmoin" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a></h2>
 
 </p>
-<br>
+<!-- <br>
 <h2 align="center"> <b>GitHub Statistics :</b></h2>
 
 
-<p align="center"><img src="https://metrics.lecoq.io/iamatifmoin" alt="Github Metrics"></p>
-<p align="center">See More: https://metrics.lecoq.io/about/iamatifmoin</p>
+<!-- <p align="center"><img src="https://metrics.lecoq.io/iamatifmoin" alt="Github Metrics"></p>
+<p align="center">See More: https://metrics.lecoq.io/about/iamatifmoin</p> -->
 <!--<h5>See More : </h5>
 <p align="centre" a href = "https://metrics.lecoq.io/about/iamatifmoin"></p>-->
-<h3 align="center" >Loved something? <img src="https://img.icons8.com/fluency/25/000000/christmas-star.png"/> some repositories to show your
-<img src="https://img.icons8.com/color/25/000000/like--v3.png"/>.</h3>
+<!-- <h3 align="center" >Loved something? <img src="https://img.icons8.com/fluency/25/000000/christmas-star.png"/> some repositories to show your
+<img src="https://img.icons8.com/color/25/000000/like--v3.png"/>.</h3> -->
