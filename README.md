@@ -7,7 +7,7 @@
 
 <br>
 
-<p align="left"><i>I am <b>Atif Moin</b>, a final-year undergrad from <b>Lucknow, India.</b></p>
+<p align="left"><i>I am <b>Atif Moin</b>, a first-year postgrad student from <b>Lucknow, India.</b></p>
 
 <h3> <b>Languages and Tools :</b>
 <p
