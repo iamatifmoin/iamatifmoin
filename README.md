@@ -1,7 +1,7 @@
 <h1 align="left"><b> Hi!</b> </h1>
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=iamatifmoin">
-</a>
+</a> -->
 <!-- <a href="https://github.com/iamatifmoin?tab=followers"><img src="https://img.shields.io/github/followers/iamatifmoin?label=Followers&style=social" alt="Github Badge">
 </a><br> -->
 
