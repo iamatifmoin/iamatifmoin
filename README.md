@@ -8,7 +8,7 @@
 <br>
 
 <p align="left"><i>I am <b>Atif Moin</b>, a final-year postgrad student from <b>Lucknow, India.</b></p>
-<p align="left">These are my work profiles:</p>
+<p align="left">These are my other work profiles:</p>
 <ul>
 <li><a href = "https://github.com/atif-gmt" target="_blank"><b>@atif-gmt</b></a></li>
 <li><a href = "https://github.com/atif-klanova" target="_blank"><b>@atif-klanova</b></a></li>
