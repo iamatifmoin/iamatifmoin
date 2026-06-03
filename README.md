@@ -22,7 +22,7 @@
    margin-bottom:5px></p>
 
 <p align="left"> 
-<img src="https://skillicons.dev/icons?i=next,react,mongodb,express,nodejs,tailwind,js,html,css,md">
+<img src="https://skillicons.dev/icons?i=next,react,redux,mongodb,firebase,postgres,supabase,nestjs,postman,androidstudio,aws,gcp,cloudflare,express,nodejs,tailwind,sass,astro,js,cpp,html,css,md">
 </p>
 
 <h3> <b>Let's Connect :</b></h3>
