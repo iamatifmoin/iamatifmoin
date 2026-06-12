@@ -7,7 +7,8 @@
 
 <br>
 
-<p align="left"><i>I am <b>Atif Moin</b>, an MCA graduate from <b>Lucknow, India.</b></p>
+<p align="left"><i>I am <b>Atif Moin</b>, an MCA graduate from Lucknow, India.</p>
+<p align="left"><i>I am a <b>Full Stack Engineer</b> and an Open Source enthusiast.</p>
 <p align="left">These are my other work profiles:</p>
 <ul>
 <li><a href = "https://github.com/atif-brandcontext" target="_blank"><b>@atif-brandcontext</b></a></li>
