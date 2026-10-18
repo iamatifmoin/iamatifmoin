@@ -7,8 +7,8 @@
 
 <br>
 
-<p align="left"><i>I am <b>Atif Moin</b>, an MCA graduate from Lucknow, India.</p>
-<p align="left"><i>I'm a <b>Full-Stack Engineer</b> and an Open Source enthusiast.</p>
+<p align="left"><i>I am <b>Atif Moin</b>, from Lucknow, India.</p>
+<p align="left"><i>I'm an <b>AI Operations Engineer</b> and an Open Source enthusiast.</p>
 <p align="left">These are my work profiles:</p>
 <ul>
 <li><a href = "https://github.com/atif-goonj" target="_blank"><b>@atif-goonj</b></a></li>
